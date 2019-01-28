@@ -13,7 +13,7 @@ context:
 	git push origin master
 
 Finally, visit [this page](https://github.com/vrchatdocs/vrchatdocs/compare) and select your forked repository,
-and maybe write a brief about why it should be merged into the published version.
+and maybe write a brief about what you've done and/or why it should be merged into the published version.
 
 ## FAQ
 

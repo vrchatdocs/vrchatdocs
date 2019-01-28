@@ -21,6 +21,7 @@
 	    * [Tools](world/tools.md)
     * World Scripting
 	    * [Animator](world/animator.md)
+		* [Sides](world/sides.md)
 	    * [VRC_Trigger](world/vrc_trigger.md)
 		* [Whitelisted Components](world/whitelist.md)
     * World Features
