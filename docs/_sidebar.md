@@ -35,6 +35,7 @@
 		* [Keyboard](world/player-features/keyboard.md)
 * Avatars
     * Avatar Creation
+	    * [Getting Started](avatar/intro.md)
 	    * [Tools](avatar/tools.md)
 		* [Rigging Specifications](avatar/rig.md)
     * Avatar Features

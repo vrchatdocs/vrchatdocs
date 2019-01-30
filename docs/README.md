@@ -12,6 +12,11 @@ in touch with a human.
 
 You can also find some useful resources in [`resources.md`](resources.md).
 
+## Work In Progress
+
+There's a lot of pages missing, so it would be tremendous help to have whatever is already topic marked in the sidebar to be copied
+over from the official documentation if it exists.
+
 ## Offline Version
 
 You can download an offline copy that you can run on your computer for reference, or for editing and then for submission to be
