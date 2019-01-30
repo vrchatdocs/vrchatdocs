@@ -18,14 +18,17 @@
 	* [Social Tab](manual/social.md)
 * World
     * World Creation
+	    * [Getting Started](world/intro.md)
 	    * [Tools](world/tools.md)
     * World Scripting
 	    * [Animator](world/animator.md)
 		* [Sides](world/sides.md)
-	    * [VRC_Trigger](world/vrc_trigger.md)
+	    * [Triggers](world/triggers.md)
 		* [Whitelisted Components](world/whitelist.md)
     * World Features
+	    * [Avatar Pedestals](world/features/pedestals.md)
 	    * [Battle Mini-game](world/features/battle.md)
+		* [Portals](world/features/portals.md)
 	    * [Seats](world/features/seats.md)
         * [Slideshow](world/features/slideshow.md)
 	    * [Unity UI (World-Space Canvas)](world/features/unityui.md)
